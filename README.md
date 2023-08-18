@@ -1,6 +1,6 @@
 <img align ="right" width = "400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 <h1 align="center">Hi 👋, I'm Akshay B</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Wannabe Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaylegend07&label=Profile%20views&color=0e75b6&style=flat" alt="akshaylegend07" /> </p>
 
