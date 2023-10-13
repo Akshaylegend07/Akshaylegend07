@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **bakshayboobathi@gmail.com**
+- ⚙️ Machine Learning enthusiast 
 
-- ⚡ Fun fact **I am Guts**
+- 📫 How to reach me **bakshayboobathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
