@@ -1,33 +1,73 @@
-<img align ="right" width = "400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
-<h1 align="center">Hi 👋, I'm Akshay B</h1>
-<h3 align="center">Wannabe Data Scientist </h3>
+## Hi!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaylegend07&label=Profile%20views&color=0e75b6&style=flat" alt="akshaylegend07" /> </p>
+### I'm AKSHAY B,
 
 
-- 🌱 I’m currently learning **Django , Pytorch**
+<img align="right" alt="desk" width="380px" src="./images/programmer.webp">
+&ensp;
 
-- 💬 Ask me about **Python**
+- An Aspiring Data Scientist
+- Good in python
+- currently learning machine learning and NLP
+- Checkout my projects!
 
-- ⚙️ Machine Learning enthusiast 
-
-- 📫 How to reach me **bakshayboobathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshayboobathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayboobathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akshay-b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-b" height="30" width="40" /></a>
-<a href="https://instagram.com/akshaylegend07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaylegend07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/akshaylegend07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akshaylegend07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bakshayboobathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bakshayboobathi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bakshayboobathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bakshayboobathi" height="30" width="40" /></a>
+<p>
+<a href="https://www.hackerrank.com/bakshayboobathi">
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-ist&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaylegend07&show_icons=true&locale=en&layout=compact" alt="akshaylegend07" /></p>
+<img align="right" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">&ensp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaylegend07&show_icons=true&locale=en" alt="akshaylegend07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaylegend07&" alt="akshaylegend07" /></p>
+### My stacks:
+
+<div align="left">
+<div>
+    &ensp;&ensp;
+    <a href="https://www.ruby-lang.org/en/"> <img alt=".rb" src="./images/ruby.svg" width="32px" /></a> &ensp;&ensp;
+    <a href=https://rubyonrails.org/"> <img alt=".rails" src="./images/rails.svg" width="32px" /></a> &ensp;&ensp;
+    <a href=https://rubyonrails.org/"> <img alt=".rails" src="./images/rspec.svg" width="32px" /></a> &ensp;&ensp;
+    <a href="https://turbo.hotwired.dev/"> <img alt=".turbo" src="./images/turbo.svg" width="32px" /></a> &ensp;&ensp;
+    <a href="https://stimulus.hotwired.dev/"> <img alt=".stimulus" src="./images/stimulus.svg" width="32px" /></a>
+</div>
+&ensp;
+<div>
+    &ensp;&ensp;&ensp;
+    <a href="https://vuejs.org/"> <img alt=".vue" src="./images/vue.svg" width="32px" /></a> &ensp;
+    <a href="https://nuxtjs.org/"> <img alt=".nuxt" src="./images/nuxt.svg" width="36px" /></a> &ensp;
+    <a href="https://jquery.com/"> <img alt=".jquery" src="./images/jquery.svg" width="32px" /></a> &ensp;
+    <a href="https://sass-lang.com/"> <img alt=".scss" src="./images/scss.svg" width="32px" /></a> &ensp;
+    <a href="https://semantic-ui.com/"> <img alt=".semantic-ui" src="./images/semantic-ui.svg" width="32px" /></a>
+</div>
+&ensp;
+<div>
+    &ensp;&ensp;&ensp;&ensp;&ensp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG"> <img alt=".svg" src="./images/svg.svg" width="32px" /></a> &ensp;
+    <a href="https://greensock.com/gsap/"> <img alt=".gsap" src="./images/gsap.svg" width="65px" /></a> &ensp;
+    <a href="https://www.figma.com/"> <img alt=".figma" src="./images/figma.svg" width="32px" /></a> &ensp;
+    <a href="https://www.adobe.com/in/products/illustrator.html"> <img alt=".ai" src="./images/illustrator.svg" width="32px" /></a>
+</div>
+&ensp;
+<div>
+    &ensp;&ensp;&ensp;
+    <a href="https://sinatrarb.com/"> <img alt=".sinatra" src="./images/sinatra.svg" width="32px" /></a> &ensp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img alt=".html" src="./images/html.svg" width="28px" /></a> &ensp;&ensp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img alt=".css" src="./images/css.svg" width="28px" /></a> &ensp;&ensp;
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img alt=".c" src="./images/c.svg" width="32px" /></a> &ensp;&ensp;
+    <a href="https://cplusplus.com/doc/tutorial/"> <img alt=".cpp" src="./images/c++.svg" width="32px" /></a>
+</div>
+&ensp;
+<div>
+    &ensp;&ensp;
+    <a href="https://cockroachdb.cloud/"> <img alt=".cockroach" src="./images/graphql.svg" width="32px" /></a> &ensp;
+    <a href="https://restfulapi.net/"> <img alt=".rest" src="./images/rest.svg" width="32px" /></a> &ensp;&ensp;
+    <a href="https://render.com/"> <img alt=".render" src="./images/render.svg" width="26px" /></a> &ensp;&ensp;
+    <a href="https://www.sqlite.org/index.html"> <img alt=".sqlite" src="./images/sqlite.svg" width="56px" /></a> &ensp;
+    <a href="https://www.postgresql.org/"> <img alt=".postgres" src="./images/postgres.svg" width="43px" /></a>
+</div>
+</div>
+&ensp;
