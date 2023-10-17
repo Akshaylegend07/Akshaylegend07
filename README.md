@@ -19,7 +19,3 @@
 </p>
 
 <img align="right" alt="GitHub Streak" width="480px" src="https://github-readme-streak-stats.herokuapp.com?user=ruby-ist&theme=vue-dark&hide_border=true">&ensp;
-
-
-### My stacks:
-
